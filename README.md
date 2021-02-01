@@ -2,8 +2,10 @@
 
 Front End Javascript Challenge
 
-# Demo Calendar Application using REACT
+# Demo Calendar Application using REACT + REDUX + TAILWIND
 
-By: John Lenin Ortiz G
+Up and running at https://stupefied-boyd-5fe7ec.netlify.app/
+
+By: John Lenin Ortiz Gs
 Cel: +57 310 765 0500
 Mail: lenincomp@gmail.com
