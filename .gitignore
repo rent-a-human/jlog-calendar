@@ -8,8 +8,6 @@
 # testing
 /coverage
 
-# production
-/build
 
 # tailwind.css generated output
 /src/css/index.css
