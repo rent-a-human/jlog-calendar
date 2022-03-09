@@ -8,4 +8,4 @@ Up and running at https://stupefied-boyd-5fe7ec.netlify.app/
 
 By: John Lenin Ortiz Gs
 Cel: +57 310 765 0500
-Mail: lenincomp@gmail.com
+Mail: jlortizg@slabcode.com
